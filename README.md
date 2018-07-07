@@ -2,8 +2,9 @@
 
 Flutter Tutorials in Arabic
 ## Exanple
-[<img src="https://i.imgur.com/pP8ChGh.gif" width="600" height="450">](https://dribbble.com/shots/3911197-DesignBetter-co-app-concept-in-InVision-Studio)
-
+<p align="center">
+  <img src="https://i.imgur.com/pP8ChGh.gif" alt="flutter PageView" style="margin:auto">
+</p>
 
 ## Getting Started
 
