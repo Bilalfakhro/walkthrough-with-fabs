@@ -2,7 +2,8 @@
 
 Flutter Tutorials in Arabic
 ## Example
-![](https://i.imgur.com/pP8ChGh.gif"Example")
+![Image of screen](https://i.imgur.com/pP8ChGh.gif)
+
 
 
 ## Getting Started
