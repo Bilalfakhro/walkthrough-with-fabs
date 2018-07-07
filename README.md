@@ -2,10 +2,7 @@
 
 Flutter Tutorials in Arabic
 ## Example
-<p align="center">
-  <img src="https://i.imgur.com/pP8ChGh.gif" alt="FLUTTERPAGEVIEW" style="margin:auto">
-</p>
-
+[Imgur](https://i.imgur.com/pP8ChGh.gifv)
 
 ## Getting Started
 
