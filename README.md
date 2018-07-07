@@ -2,7 +2,8 @@
 
 Flutter Tutorials in Arabic
 ## Exanple
-[Imgur](https://i.imgur.com/pP8ChGh.gifv)
+[<img src="https://i.imgur.com/pP8ChGh.gif">]()
+
 
 ## Getting Started
 
