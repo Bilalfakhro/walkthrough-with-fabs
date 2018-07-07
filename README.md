@@ -1,7 +1,7 @@
 # code
 
 Flutter Tutorials in Arabic
-## Example
+## Exanple
 [Imgur](https://i.imgur.com/pP8ChGh.gifv)
 
 ## Getting Started
