@@ -2,7 +2,7 @@
 
 Flutter Tutorials in Arabic
 ## Exanple
-[<img src="https://cdn.dribbble.com/users/128918/screenshots/3911197/noam-dribbble-v8.gif" width="600" height="450">](https://dribbble.com/shots/3911197-DesignBetter-co-app-concept-in-InVision-Studio)
+[<img src="https://i.imgur.com/pP8ChGh.gif" width="600" height="450">](https://dribbble.com/shots/3911197-DesignBetter-co-app-concept-in-InVision-Studio)
 
 
 ## Getting Started
