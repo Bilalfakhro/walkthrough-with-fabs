@@ -3,7 +3,7 @@
 Flutter Tutorials in Arabic
 ## Exanple
 
-<img src="https://i.imgur.com/pP8ChGh.gif" height="400px" >
+<img src="https://i.imgur.com/pP8ChGh.gif" height="400px"  widgth="200px">
 
 ## Getting Started
 
