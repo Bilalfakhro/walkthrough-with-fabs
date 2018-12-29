@@ -1,9 +1,9 @@
 # code
-
 Flutter Tutorials in Arabic
-## Exanple
 
-<img src="https://i.imgur.com/pP8ChGh.gif" height="400px"  widgth="200px">
+## Example
+
+![Flutter Tutorials in Arabic Example](https://i.imgur.com/pP8ChGh.gif)
 
 ## Getting Started
 
