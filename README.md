@@ -1,7 +1,7 @@
 # code
 
 Flutter Tutorials in Arabic
-## Exanple
+## Example
 
 <img src="pP8ChGh.gif" height="400px"  widgth="200px">
 
